@@ -1,5 +1,4 @@
-# chwx-admin
-长河网信项目搬迁前端
+
 需要先搭建nodejs环境
 Nodejs下载：https://nodejs.org/en/download/
 安装完成之后，打开命令行工具，输入 node -v 查看版本
